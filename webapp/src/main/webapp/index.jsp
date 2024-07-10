@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Etti is the best! </h1>
+   <h1> Etti is the best, trust me! </h1>
 
   
 </form>
